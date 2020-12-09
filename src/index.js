@@ -10,7 +10,6 @@ ReactDOM.render(
   <React.StrictMode>
    {/* <AppData/> */}
   <TodoList/>
-
   </React.StrictMode>,
   document.getElementById('root')
 );
